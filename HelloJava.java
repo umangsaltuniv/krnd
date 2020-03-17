@@ -2,7 +2,7 @@ public class HelloJava {
 	
 	public static void main(String[] args) {
 
-		System.out.println("Hello Java19");
+		System.out.println("Hello Java20");
 		  
 		  
 	
